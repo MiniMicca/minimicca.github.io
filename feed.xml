@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Micca · 笔记</title>
+    <link>https://micca.cn/</link>
+    <description>关于招聘、组织与人的笔记。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://micca.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Thu, 20 Nov 2026 10:00:00 +0800</lastBuildDate>
+
+    <item>
+      <title>面试里最没用的问题是「你的优缺点是什么」</title>
+      <link>https://micca.cn/post.html</link>
+      <guid>https://micca.cn/post.html</guid>
+      <category>招聘方法论</category>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0800</pubDate>
+      <description>它给你的是自我评价，不是行为证据。而自我评价，恰恰是面试中最容易准备的部分。</description>
+    </item>
+
+    <item>
+      <title>激励设计里最容易被忽略的，是公平感</title>
+      <link>https://micca.cn/post.html</link>
+      <guid>https://micca.cn/post.html#2</guid>
+      <category>组织与人才</category>
+      <pubDate>Sat, 14 Nov 2026 10:00:00 +0800</pubDate>
+      <description>钱给到位了，人还是走了——多半是公平感的问题。</description>
+    </item>
+
+    <item>
+      <title>读《团队协作的五大障碍》</title>
+      <link>https://micca.cn/post.html</link>
+      <guid>https://micca.cn/post.html#3</guid>
+      <category>读书与输入</category>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0800</pubDate>
+      <description>信任不是互相喜欢，是敢在别人面前承认自己错了。</description>
+    </item>
+  </channel>
+</rss>
